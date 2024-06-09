@@ -46,4 +46,6 @@ OpenTMA-demo/
 python app.py
 ```
 
+We also deploy our demo on [SwanHub](https://swanhub.co/Evan/OpenTMR/tree/master), see [demo](https://swanhub.co/demo/Evan/OpenTMR). 
+
 For the details of the project and the citation, please refer to the [HumanTOMATO](https://github.com/IDEA-Research/HumanTOMATO) project.
